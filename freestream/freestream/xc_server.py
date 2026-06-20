@@ -1204,11 +1204,14 @@ def run_service():
     🔥 AGUARDANDO CONEXÕES...
     """)
     
+    # Usando o servidor WSGI do Flask com suporte a threads
     app.run(
         host="0.0.0.0",
         port=PROXY_PORT,
         threaded=True,
-        debug=True
+        debug=False,
+        use_reloader=False  # Desabilitado para evitar problemas no QPython
     )
 
- 
+if __name__ == '__main__':
+    run_service()
