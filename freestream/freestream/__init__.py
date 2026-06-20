@@ -1,1 +1,1 @@
-from .main import run
+from .xc_server import run_service
