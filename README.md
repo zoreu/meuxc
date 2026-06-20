@@ -3,7 +3,7 @@ meu xc
 
 ## tutorial
 
-baixe o app qpython+
+baixe o app qpython+ no celular
 
 abra o app vá em QPYPI -> PIP Client e digite: pip install https://tinyurl.com/meuxc123
 
