@@ -9,7 +9,7 @@ abra o app vá em QPYPI -> PIP Client e digite: pip install https://tinyurl.com/
 
 depois de instalado basta rodar o comando: freestream
 
-pegue os dados que aparece para colocar no iptv smarters da tv
+pegue os dados que aparece para colocar no iptv smarters da tv ou classe play da playstore
 
 
 
